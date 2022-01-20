@@ -1,5 +1,5 @@
 $(function() {
-  README:CREDIT TO dear-sir-or madam // Find everything that has a text, isn't just a space, and wrap it
+   // Find everything that has a text, isn't just a space, and wrap it
   // in something we can track later. Unless we've already done so.
   if ($('#did-the-letter-parsing')[0])
     return;
